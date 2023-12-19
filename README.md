@@ -29,7 +29,7 @@ Welcome to the official GitHub profile of [TechMFoda]! 🚀 We are a leading sof
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)](https://github.com/monzerfoda)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=monzerfoda&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)](https://github.com/monzerfoda)
 
 ## 📫 Contact Us
 
