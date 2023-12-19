@@ -15,11 +15,60 @@ Welcome to the official GitHub profile of [TechMFoda]! 🚀 We are a leading sof
 
 [![Tech Stack](https://img.shields.io/badge/-Tech%20Stack-000?style=flat&logoColor=white)](https://github.com/monzerfoda)
 
-- Programming Languages: [List of Languages]
-- Frameworks & Libraries: [List of Frameworks/Libraries]
-- Databases: [List of Databases]
-- Tools & Software: [List of Tools]
+## 🔧 Technologies & Tools
 
+### Programming Languages:
+- Java
+- JavaScript (Node.js)
+- Python
+- C#
+- C++
+- Ruby
+- Swift
+- Kotlin
+
+### Frameworks & Libraries:
+- React.js
+- Angular
+- Vue.js
+- Spring Boot
+- Django
+- Ruby on Rails
+- Express.js
+- Flask
+
+### Databases:
+- MySQL
+- PostgreSQL
+- MongoDB
+- Oracle Database
+- Microsoft SQL Server
+- Redis
+- Cassandra
+- Firebase
+
+### Tools & Software:
+- Git
+- GitHub
+- GitLab
+- Jira
+- Docker
+- Kubernetes
+- Jenkins
+- Visual Studio Code
+- IntelliJ IDEA
+- Eclipse
+- Sublime Text
+- Slack
+- Microsoft Teams
+- Zoom
+- AWS (Amazon Web Services)
+- Azure
+- Google Cloud Platform
+- Selenium
+- Postman
+- Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mfoda-tech)
