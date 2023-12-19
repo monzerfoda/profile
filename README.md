@@ -23,9 +23,9 @@ Hi there! 👋 I'm [TechMFoda], a passionate [Your Profession/Interests] from [Y
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/your-whatsapp-number)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mfoda-tech)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MfodaTech)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/201555552510)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logoColor=white)](https://your-portfolio.com)
 
 ## 📈 GitHub Stats
@@ -41,5 +41,3 @@ Hi there! 👋 I'm [TechMFoda], a passionate [Your Profession/Interests] from [Y
 
 Feel free to explore my repositories and don't hesitate to reach out! Let's code together and make the world a better place. 🌍✨
 
-
-https://wa.me/201555552510
