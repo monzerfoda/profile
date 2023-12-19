@@ -1,4 +1,4 @@
-# [TechMFoda]
+# [TechMFoda Co. Ltd.]
 
 [![Header](https://img.shields.io/badge/-Your%20Company%20Name-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/monzerfoda)
 
